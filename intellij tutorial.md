@@ -10,7 +10,7 @@
 
     ```java
     /home/ojas/IdeaProjects/COMP303Starter/src/module-info.java:7:20
-java: module not found: javafx.base```
+    java: module not found: javafx.base```
 
     Here's how to fix it:
 
