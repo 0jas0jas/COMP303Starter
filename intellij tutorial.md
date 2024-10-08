@@ -1,7 +1,7 @@
 ## Setting up starter code on Intellij:
 
 1. Go to File > New > Project from version control
-2. You will notice that no program are actually in your `Project` library. 
+2. You will notice that no program files are actually in your `Project` library. 
 3. Go to File > Project Structure
 4. Find `Modules` in the left panel
 5. Click on `COMP 303` > Select `comp303` > Right-click and check `Sources`
